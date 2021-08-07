@@ -1,5 +1,6 @@
 # AnotherClock
-用Electron写的仿制了AClock的时钟。
+用Electron写的仿制了AClock的时钟
+
 名言部分使用了`hitokoto`的句子API
 
 # How to run
