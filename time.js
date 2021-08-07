@@ -55,4 +55,4 @@ function update() {
     }
 }
 update()
-setInterval("update()", '1000')
+setInterval("update()", '100') //减小时差至 100ms内
