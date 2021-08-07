@@ -13,7 +13,7 @@ app.on("ready", () => {
             contextIsolation: false
         }
     })
-    mainWindow.loadFile("./index.html")
+    mainWindow.loadFile("./window/index.html")
     mainWindow.on("close", () => {
         mainWindow = null
     })
