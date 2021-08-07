@@ -10,4 +10,7 @@
    
 # To do
 1. 打包(May in the Release)
-2. 增加闹钟功能
+2. 番茄钟（已经完成UI）
+
+# Trouble
+1. 窗口间通信
